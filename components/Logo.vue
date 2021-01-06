@@ -1,5 +1,5 @@
 <template>
-  <img src="../static/icon.png" alt="OMA logo" />
+  <img src="../static/OMASpecWorks_logo.png" alt="OMA logo" />
 </template>
 
 <style></style>
