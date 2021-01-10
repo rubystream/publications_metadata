@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog", {data:[{articles:[{slug:"my-first-blog-post",description:"First impressions about OMA Publication Metadata system",title:"First Impressions",author:{name:"Dejan Dimic"},updatedAt:"2021-01-10T13:57:04.210Z"}]}],fetch:[],mutations:void 0});
